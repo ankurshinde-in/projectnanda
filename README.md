@@ -3,22 +3,12 @@
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
   /* 2. Force the Site to use it */
-  body,
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  p,
-  span,
-  div,
-  a {
+  body, h1, h2, h3, h4, h5, h6, p, span, div, a {
     font-family: "Poppins", sans-serif !important;
   }
 </style>
 
-<div align="left">
+<div align = "left">
 
 # Project NANDA
 ### Building the Internet of AI Agents
@@ -27,7 +17,7 @@
 
 </div>
 
-<div align="center">
+<div align = "center">
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ProjectNANDA)
 [![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BxnPBEqd88)
@@ -49,6 +39,8 @@ NANDA provides the **index**, **protocols**, and **tools** needed to enable a de
 * **Infrastructure**: Interop links between heterogeneous agent registries (A2A, MCP, HTTPS).
 * **Governance**: Frameworks for a responsible, open agentic web.
 * **Discovery**: A privacy-preserving registry architecture.
+
+
 
 <style>
   .nanda-stats-grid {
@@ -82,12 +74,12 @@ NANDA provides the **index**, **protocols**, and **tools** needed to enable a de
     border: 1px solid #eaeaea;
     border-radius: 16px;
     transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.02);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.02);
   }
 
   .nanda-stat-item:hover {
     transform: translateY(-5px);
-    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.08);
     border-color: #000000;
   }
 
@@ -169,6 +161,8 @@ NANDA provides the **index**, **protocols**, and **tools** needed to enable a de
 
 </div>
 
+
+
 <div align="center">
 
 ## Research & Publications
@@ -201,7 +195,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
     justify-content: center;
     margin-top: 20px;
   }
-
+  
   .nanda-card {
     flex: 1;
     min-width: 300px; /* Stacks vertically on mobile */
@@ -209,7 +203,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
     border: 1px solid #e0e0e0;
     border-radius: 10px;
     padding: 20px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
     transition: all 0.3s ease;
     border-top: 4px solid #ddd; /* Default top border */
     color: #000000;
@@ -218,24 +212,15 @@ Our research outlines the architectural and strategic foundations of the Agentic
   /* Hover Animation */
   .nanda-card:hover {
     transform: translateY(-7px);
-    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 12px 20px rgba(0,0,0,0.15);
   }
 
   /* Specific Colors for Phases */
-  .phase-1:hover {
-    border-top-color: #0A66C2;
-  } /* Blue */
-  .phase-2:hover {
-    border-top-color: #B31B1B;
-  } /* Red/Maroon */
-  .phase-3:hover {
-    border-top-color: #008000;
-  } /* Green */
+  .phase-1:hover { border-top-color: #0A66C2; } /* Blue */
+  .phase-2:hover { border-top-color: #B31B1B; } /* Red/Maroon */
+  .phase-3:hover { border-top-color: #008000; } /* Green */
 
-  .nanda-card h3 {
-    margin-top: 0;
-    margin-bottom: 10px;
-  }
+  .nanda-card h3 { margin-top: 0; margin-bottom: 10px; }
   .nanda-badge {
     display: inline-block;
     padding: 2px 8px;
@@ -245,11 +230,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
     color: #555;
     margin-bottom: 10px;
   }
-  .badge-active {
-    background: #d1f7c4;
-    color: #006400;
-    font-weight: bold;
-  }
+  .badge-active { background: #d1f7c4; color: #006400; font-weight: bold; }
 </style>
 
 <div class="nanda-roadmap">
@@ -326,7 +307,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
 
   .media-card:hover {
     transform: translateY(-3px);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
     border-color: #000;
   }
 
@@ -348,7 +329,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
     display: flex;
     align-items: center;
   }
-
+  
   .media-source::before {
     content: '';
     display: inline-block;
@@ -374,6 +355,16 @@ Our research outlines the architectural and strategic foundations of the Agentic
     <div class="media-title">NANDA: The Internet of AI Agents</div>
     <div class="media-source">LinkedIn (Ramesh Raskar)</div>
   </a>
+
+  <a href="https://www.linkedin.com/pulse/review-mit-nanda-internet-ai-agents-ben-xiaojun-li-am7hc" class="media-card">
+    <div class="media-title">Review of NANDA</div>
+    <div class="media-source">LinkedIn (Ben Xiaojun Li)</div>
+  </a>
+
+  <a href="https://www.vana.org/posts/mit-decentralized-ai-summit" class="media-card">
+    <div class="media-title">MIT Decentralized AI Summit Recap</div>
+    <div class="media-source">Vana</div>
+  </a>
 </div>
 
 ---
@@ -388,7 +379,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
   <a href="https://www.youtube.com/watch?v=-S51FOnqF0o">
     <img src="https://i.ytimg.com/vi/-S51FOnqF0o/hqdefault.jpg" width="45%" alt="NANDA Demo">
   </a>
-
+  
   <p><em>Click thumbnails to watch demos</em></p>
 </div>
 
@@ -407,33 +398,33 @@ We believe the web must evolve from static content to autonomous actors. **Join 
     gap: 20px;
     margin: 30px 0;
   }
-
+  
   .engage-card {
-    display: flex;
-    flex-direction: column;
-    text-decoration: none !important;
-    color: inherit !important;
-    background: #fff;
-    border: 1px solid #eee;
-    padding: 20px;
-    border-radius: 12px;
-    transition: all 0.3s ease;
-    text-align: left;
+      display: flex;
+      flex-direction: column;
+      text-decoration: none !important;
+      color: inherit !important;
+      background: #fff;
+      border: 1px solid #eee;
+      padding: 20px;
+      border-radius: 12px;
+      transition: all 0.3s ease;
+      text-align: left;
   }
   .engage-card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
-    border-color: #000;
+      transform: translateY(-3px);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+      border-color: #000;
   }
   .engage-title {
-    font-weight: 700;
-    font-size: 1.1rem;
-    color: #000;
-    margin-bottom: 5px;
+      font-weight: 700;
+      font-size: 1.1rem;
+      color: #000;
+      margin-bottom: 5px;
   }
   .engage-text {
-    font-size: 0.9rem;
-    color: #555;
+      font-size: 0.9rem;
+      color: #555;
   }
 </style>
 
@@ -442,7 +433,7 @@ We believe the web must evolve from static content to autonomous actors. **Join 
     <div class="engage-title">Discord</div>
     <div class="engage-text">For technical discussions and community chat.</div>
   </a>
-
+  
   <a href="https://Lu.Ma/nanda" class="engage-card">
     <div class="engage-title">Events (Lu.ma)</div>
     <div class="engage-text">Join our weekly webinars and summits.</div>
@@ -470,6 +461,8 @@ We believe the web must evolve from static content to autonomous actors. **Join 
 </div>
 
 ---
+
+
 
 <div align="center">
 
