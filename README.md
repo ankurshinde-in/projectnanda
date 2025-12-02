@@ -1,3 +1,13 @@
+<style>
+  /* 1. Load the Font from Google */
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+  /* 2. Force the Site to use it */
+  body, h1, h2, h3, h4, h5, h6, p, span, div, a {
+    font-family: "Poppins", sans-serif !important;
+  }
+</style>
+
 <div align = "left">
 
 # Project NANDA
