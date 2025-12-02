@@ -462,7 +462,22 @@ We believe the web must evolve from static content to autonomous actors. **Join 
 
 ---
 
+## Additional Resources
 
+### Videos & Media
+
+* [Intro to NANDA (YouTube)](https://www.youtube.com/watch?v=jlcO19XyQ1I) — "Network of AI Agents & Decentralized Internet"
+* [Project NANDA Overview Talk (YouTube)](https://www.youtube.com/watch?v=vCeiA0T8kTM)
+* [Decentralized AI Summit Panel (YouTube)](https://www.youtube.com/watch?v=oDRyxMUum4A)
+
+### Prior Work
+
+* [Decentralized AI](https://youtu.be/RXs6saNBnAE?si=fQIPkDJ4rxfBBel0)
+* [No Peek Privacy](https://youtu.be/BEav6MIjmyk?si=q89DFaDybvEc0d8p)
+* [Apple Workshop on Machine Learning for Health: Web3 and Decentralized AI (DecAI)](https://machinelearning.apple.com/video/web3-decai)
+* [Target AI Video](https://youtu.be/nqJySV2LQGw?si=oeEwu4NjvSrfcy_M)
+
+---
 
 <div align="center">
 
