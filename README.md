@@ -314,7 +314,6 @@ Our research outlines the architectural and strategic foundations of the Agentic
     font-size: 0.85rem;
     font-weight: 700;
     color: #666;
-    text-transform: uppercase;
     letter-spacing: 1px;
     margin-top: auto;
     display: flex;
@@ -333,17 +332,17 @@ Our research outlines the architectural and strategic foundations of the Agentic
 
 <div class="media-grid">
   <a href="https://www.forbes.com/sites/johnwerner/2025/07/08/line-up-and-identify-yourselves-ai-agents-get-organized-with-nanda/" class="media-card">
-    <div class="media-title">“Line Up and Identify Yourselves — AI Agents Get Organized with NANDA”</div>
+    <div class="media-title">Line Up and Identify Yourselves — AI Agents Get Organized with NANDA</div>
     <div class="media-source">Forbes</div>
   </a>
 
   <a href="https://www.forbes.com/sites/johnwerner/2025/05/13/make-a-decentralized-internet-with-ai-nanda-is-coming/" class="media-card">
-    <div class="media-title">“Make a Decentralized Internet with AI — NANDA Is Coming”</div>
+    <div class="media-title">Make a Decentralized Internet with AI — NANDA Is Coming</div>
     <div class="media-source">Forbes</div>
   </a>
 
   <a href="https://www.linkedin.com/pulse/nanda-internet-ai-agents-ramesh-raskar-211ve" class="media-card">
-    <div class="media-title">“NANDA: The Internet of AI Agents”</div>
+    <div class="media-title">NANDA: The Internet of AI Agents</div>
     <div class="media-source">LinkedIn (Ramesh Raskar)</div>
   </a>
 </div>
